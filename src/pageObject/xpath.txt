@@ -1,3 +1,4 @@
 clickOnBasic://a [text()="Basic Course"]
 clickOnGreen://div[@class="greenbox"]
 frame://div[@class=\"wrapper\"]
+locator :xpath://div[@test()="new locator"]
